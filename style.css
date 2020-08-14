@@ -34,22 +34,19 @@ body::after {
 }
 
 div {
+  width: 150px;
+  height: 150px;
+  background-color: #e8ebee;
   margin: 30px;
 }
 
 .neumorphism-square-1 {
-  width: 150px;
-  height: 150px;
-  background-color: #e8ebee;
   border-radius: 30px;
   box-shadow: 15px 15px 30px #b5b7ba,
     -15px -15px 30px #ffffff;
 }
 
 .neumorphism-square-2 {
-  width: 150px;
-  height: 150px;
-  background-color: #e8ebee;
   border-radius: 30px;
   box-shadow: inset 15px 15px 30px #c1c3c6,
     inset -15px -15px 30px #ffffff;
@@ -60,9 +57,6 @@ div {
   justify-content: center;
   align-items: center;
   position: relative;
-  width: 150px;
-  height: 150px;
-  background-color: #e8ebee;
   border-radius: 30px;
   box-shadow: 15px 15px 30px #b5b7ba,
     -15px -15px 30px #ffffff;
@@ -80,18 +74,12 @@ div {
 }
 
 .neumorphism-circle-1 {
-  width: 150px;
-  height: 150px;
-  background-color: #e8ebee;
   border-radius: 50%;
   box-shadow: 15px 15px 30px #b5b7ba,
     -15px -15px 30px #ffffff;
 }
 
 .neumorphism-circle-2 {
-  width: 150px;
-  height: 150px;
-  background-color: #e8ebee;
   border-radius: 50%;
   box-shadow: inset 15px 15px 30px #c1c3c6,
     inset -15px -15px 30px #ffffff;
@@ -102,9 +90,6 @@ div {
   justify-content: center;
   align-items: center;
   position: relative;
-  width: 150px;
-  height: 150px;
-  background-color: #e8ebee;
   border-radius: 50%;
   box-shadow: 15px 15px 30px #b5b7ba,
     -15px -15px 30px #ffffff;
